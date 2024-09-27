@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
 	"id": "fibers",
-	"version": "1.3",
+	"version": "1.3.6",
 	"name": "Fibers Gunspack Fabric",
 	"description": "Fibers Guns for TacZ pack, made with dedication and commitment to add beloved guns into Minecraft for good ",
 	"authors": [
-		"Ifibers"
+		"Ifibers , Stabilizer king"
 	],
 	"credits":"Fibers and Stabilizer King for huge contribution",
 	"license": "All rights Reserved",
